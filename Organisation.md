@@ -71,11 +71,14 @@ Au cas ou on obtenait une place parmi les prix on devrait fournir un rapport d'e
 
 - Apercu du fichier de soumission:
 
-`id,experiment,particle_type,x,y,z
+```id,experiment,particle_type,x,y,z
 0,TS_5_4,beta-amylase,2983.596,3154.13,764.124
 1,TS_5_4,beta-amylase,2983.596,3154.13,764.124
 2,TS_5_4,beta-galactosidase,2983.596,3154.13,764.124
-etc.`
+etc.```
+
+
+
 
 
 
